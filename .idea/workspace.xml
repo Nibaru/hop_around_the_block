@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fc21d46-71d8-4fcd-bd4c-086093e8be6d" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_19_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/CoinGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/CollisionFace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/CoinComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/InfoView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/effect/Effect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/effect/Trail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/util/Vector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HopAroundTheBlock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HopAroundTheBlock.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/Collision.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/KeyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/KeyHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/CollisionComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/CollisionComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/GameHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/game/GameHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/MovingPlatformComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/MovingPlatformComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/PhysicsComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/PhysicsComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/componet/PlayerComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/game/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/game/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gg/twinhead/hatb/game/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gg/twinhead/hatb/game/Level.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="moving_platform_fox" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CXDUNvVsN0ODDrpF0rwN0ePwlF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nick/IdeaProjects/Games&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/gg/twinhead/hatb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="gg.twinhead.hatb.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gg.twinhead.hatb.Main" />
+      <module name="HopAroundTheBlock" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.gg.twinhead.hatb.Main" />
+        <item itemvalue="Application.gg.twinhead.hatb.Main" />
+        <item itemvalue="Application.gg.twinhead.hatb.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fc21d46-71d8-4fcd-bd4c-086093e8be6d" name="Changes" comment="" />
+      <created>1658940053510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658940053510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
